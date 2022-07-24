@@ -6,9 +6,9 @@
 
 ### Nokia 8.1/X71 Custom rom flash tool
 
-| Download Link |  Download Statistics  |
-|---------------|-----------------------|
-| [**PNX-CR-Tool.7z**](https://sourceforge.net/projects/pnx-sprout/files/PNX-CR-Tool/PNX-CR-Tool.7z/download) |![data](https://img.shields.io/sourceforge/dt/pnx-sprout/PNX-CR-Tool/PNX-CR-Tool.7z.svg)|
+| Download Link |  Download Statistics  | Custom rom installation guide |
+|---------------|-----------------------|-------------------------------|
+| [**PNX-CR-Tool.7z**](https://sourceforge.net/projects/pnx-sprout/files/PNX-CR-Tool/PNX-CR-Tool.7z/download) |![data](https://img.shields.io/sourceforge/dt/pnx-sprout/PNX-CR-Tool/PNX-CR-Tool.7z.svg)| [**https://youtu.be/I-iuT1nCU_c**](https://youtu.be/I-iuT1nCU_c) |
 
 ###### Do you like my work? Please Show your support by donating via PayPal or UPI ❤️
 ###### My Paypal email id - raghuvarma330@gmail.com
