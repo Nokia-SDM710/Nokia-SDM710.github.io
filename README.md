@@ -10,6 +10,12 @@
 |---------------|-----------------------|-------------------------------|
 | [**PNX-CR-Tool.7z**](https://sourceforge.net/projects/pnx-sprout/files/PNX-CR-Tool/PNX-CR-Tool.7z/download) |![data](https://img.shields.io/sourceforge/dt/pnx-sprout/PNX-CR-Tool/PNX-CR-Tool.7z.svg)| [**https://youtu.be/I-iuT1nCU_c**](https://youtu.be/I-iuT1nCU_c) |
 
+### Bootloader unlock service for Nokia 8.1/X7 
+
+| Supported Devices |        Cost         |             Place your order               |
+|-------------------|---------------------|--------------------------------------------|
+|  Nokia 8.1/X7     |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+
 ###### Do you like my work? Please Show your support by donating via PayPal or UPI ❤️
 ###### My Paypal email id - raghuvarma330@gmail.com
 ###### My UPI id - raghuvarma1998@sbi
