@@ -4,6 +4,12 @@
 |--------------|-------------------------------------------------|-----------------------|
 | Nokia 8.1 ( Latest build )| [**PixelExperience_Phoenix-12.1-20220724-0520-UNOFFICIAL.zip**](https://sourceforge.net/projects/pnx-sprout/files/PixelExperience/PixelExperience_Phoenix-12.1-20220724-0520-UNOFFICIAL.zip)|![data](https://img.shields.io/sourceforge/dt/pnx-sprout/PixelExperience/PixelExperience_Phoenix-12.1-20220724-0520-UNOFFICIAL.zip.svg)|
 
+### Governor OS Android 13.0 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Place your request   |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 8.1 ( Latest build )| [**HMD-AOSP_Phoenix-13.0-20220827-1223.zip**](https://gitlab.com/RaghuVarma331/governoros-a13-phoenix/-/raw/master/HMD-AOSP_Phoenix-13.0-20220827-1223.zip) | [**Request access**](https://t.me/RaghuVarma) |
+
 ### Nokia 8.1/X71 Custom rom flash tool
 
 | Download Link |  Download Statistics  | Custom rom installation guide |
