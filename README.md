@@ -2,7 +2,7 @@
 
 | Device       |              Download Link                      |  Place your request  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 8.1 ( Latest build )| [**crDroidAndroid-14.0-20240901-Phoenix-v10.7.zip**](https://gitlab.com/RaghuVarma331/crdroid-phoenix/-/raw/master/crDroidAndroid-14.0-20240901-Phoenix-v10.7.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 8.1 ( Latest build )| [**crDroidAndroid-14.0-20240902-Phoenix-v10.7.zip**](https://gitlab.com/RaghuVarma331/crdroid-phoenix/-/raw/master/crDroidAndroid-14.0-20240902-Phoenix-v10.7.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
 
 ### Pixel Experience Android 12L for Nokia Phones ( With GApps )
 
